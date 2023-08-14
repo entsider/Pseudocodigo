@@ -2,6 +2,7 @@
 💬 Introducción a la programación
 
 **✨ ¿Qué es la programación? ✨**
+
 Consiste en la disposición de una serie de instrucciones con el propósito de llevar a cabo una tarea específica. 
 Este concepto se puede aplicar en diversas situaciones, como planificar una semana ocupada o coordinar un evento con amigos. 
 En el ámbito de la informática, la programación se refiere a la creación de programas y aplicaciones a través de la elaboración de un código fuente. 
