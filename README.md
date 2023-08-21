@@ -17,3 +17,19 @@ El término "pseudocódigo", tal como se define en la Real Academia Española (R
 En el ámbito de la programación, el pseudocódigo es una manera de representar algoritmos y procesos. Presenta una estructura más nítida y cercana a la programación real. 
 Aunque no califica como un lenguaje de programación propiamente dicho, se emplea como una herramienta para planificar y describir algoritmos con claridad antes de implementarlos 
 en un lenguaje de programación específico.
+
+**✨ ¿Qué es una variable? ✨**
+
+Una variable es un espacio de memoria en el cual le asignas un nombre que lo distinga, 
+el espacio tendrá información o valor conocido o desconocido y puedes cambiarlo a lo largo 
+de la ejecución de tu programa según sea necesario.
+
+Si se le asigna un tipo de valor a una variable como por ejemplo entero solo podrá almacenar
+valores del tipo mencionado más no otros como caracter, etc.
+
+**✨ TIPOS DE VARIABLE ✨**
+
+- Tipo entero (no decimal)
+- Tipo caracter (letras)
+- Tipo lógico (true or false)
+- Tipo real (decimal)
