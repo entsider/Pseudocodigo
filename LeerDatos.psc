@@ -17,7 +17,7 @@ Algoritmo LeerDatos
 	
 	//Guardar dato en la variable
 
-	Escribir "Ohh, bienvenido ", nombre, ",La suma es: ", suma
+	Escribir "Ohh, bienvenido ", nombre, ", La suma es: ", suma
 	
 	
 FinAlgoritmo
