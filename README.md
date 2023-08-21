@@ -33,3 +33,18 @@ valores del tipo mencionado más no otros como caracter, etc.
 - Tipo caracter (letras)
 - Tipo lógico (true or false)
 - Tipo real (decimal)
+
+**✨ ¿Que es una estructura condicional?✨**
+
+Es una herramienta en la programación para la toma de decisiones especificas, 
+lo que hace más capaz a la situaciones que se deba cumplir.
+
+Ejemplo by IA:
+
+`SI (condicion) ENTONCES    
+    // Este bloque de código se ejecuta si la condición es verdadera.    
+SINO SI (otra_condicion) ENTONCES    
+    // Este bloque de código se ejecuta si la condición es falsa, pero otra_condicion es verdadera.  
+SINO    
+    // Este bloque de código se ejecuta si ninguna de las condiciones anteriores es verdadera.    
+FIN SI`    
